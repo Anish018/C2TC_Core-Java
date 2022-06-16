@@ -1,6 +1,6 @@
 package com.cg.dateandtime;
 import java.time.LocalTime;
-public class class2 {
+public class Main {
 	public static void main(String[] args)
 	{
 		LocalTime lt = LocalTime.now();
