@@ -1,4 +1,4 @@
-package ControlStatements;
+package com.cg.control;
 
 public class program1 {
 	
